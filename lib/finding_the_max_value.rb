@@ -5,4 +5,5 @@ def find_max_value(array)
       max_value = array[i]
     end
   }
+  max_value
 end
